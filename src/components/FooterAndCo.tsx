@@ -272,7 +272,7 @@ export function Footer() {
           <h4 className="text-white font-black uppercase text-xs tracking-widest mb-8">Contact</h4>
           <ul className="space-y-4 text-sm text-white/40 font-medium">
             <li className="hover:text-brand cursor-pointer transition-colors">hello@jv4low.com.au</li>
-            <li className="hover:text-brand cursor-pointer transition-colors">Frankston, Melbourne</li>
+            <li className="hover:text-brand cursor-pointer transition-colors">Melbourne, Australia</li>
             <li className="hover:text-brand cursor-pointer transition-colors font-bold text-brand italic">Powered by JV 4low</li>
           </ul>
         </div>
