@@ -1,4 +1,4 @@
-import logo from '../assets/logo.png';
+import logo from '../assets/logo-full.png';
 
 export function Logo({ className = "" }: { className?: string }) {
   return (
@@ -6,7 +6,7 @@ export function Logo({ className = "" }: { className?: string }) {
       <img 
         src={logo} 
         alt="JV 4low Logo" 
-        className="h-64 w-auto object-contain brightness-0 invert"
+        className="h-14 w-auto object-contain"
       />
     </div>
   );
